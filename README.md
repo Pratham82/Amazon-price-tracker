@@ -4,8 +4,8 @@
 ### Here I used beautifulsoup(bs4) library for parsing HTML data, requests for sending HTTP requests. Twilio API is used to the product prices via send whatsapp messages.
 
 ## Dependecies installation
-### `pip install requests`
-### `pip install bs4`
-### `pip install twilio`
+## `pip install requests`
+## `pip install bs4`
+## `pip install twilio`
 
 
